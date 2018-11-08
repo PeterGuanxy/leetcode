@@ -1,8 +1,5 @@
 package algorithms._03_longest_substring_without_repeating_characters;
 
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * ** Created by guanxy on 2018/7/7.
  *
