@@ -13,6 +13,9 @@ import java.util.Map;
 public class ZigZagConvertion {
 
   public String zigzag(String s, int numRows) {
+    if (numRows == 1) {
+      return s;
+    }
     Map<Integer, String> map = new HashMap<>(numRows);
     for (int i = 1; i <= numRows; i++) {
       map.put(i, "");
@@ -24,9 +27,6 @@ public class ZigZagConvertion {
       String str = map.get(line);
       str += s.charAt(i);
       map.put(line, str);
-      if (numRows == 1) {
-        continue;
-      }
 
       line += abs;
       if (line == 1) {
