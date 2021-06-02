@@ -1,4 +1,4 @@
-package algorithms._92_reverse_linked_list_2;
+package algorithms._092_reverse_linked_list_2;
 
 /**
  * ** Created by peter.guan on 2021/06/02.
