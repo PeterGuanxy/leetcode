@@ -1,7 +1,9 @@
 package algorithms._0374_guess_number_higher_or_lower;
 
 /**
- * Created by heysou_guan on 2021/6/11.
+ * ** Created by peter.guan on 2021/06/11.
+ *
+ * @author peter.guan
  */
 public class GuessNumberHigherOrLower {
 
