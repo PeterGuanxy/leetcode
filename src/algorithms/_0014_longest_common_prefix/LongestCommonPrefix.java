@@ -1,4 +1,4 @@
-package algorithms._0014longest_common_prefix;
+package algorithms._0014_longest_common_prefix;
 
 /**
  * ** Created by peter.guan on 2021/06/03.

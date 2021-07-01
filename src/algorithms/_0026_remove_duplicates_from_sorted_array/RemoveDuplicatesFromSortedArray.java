@@ -1,4 +1,4 @@
-package algorithms._0026__remove_duplicates_from_sorted_array;
+package algorithms._0026_remove_duplicates_from_sorted_array;
 
 /**
  * ** Created by peter.guan on 2021/06/08.
