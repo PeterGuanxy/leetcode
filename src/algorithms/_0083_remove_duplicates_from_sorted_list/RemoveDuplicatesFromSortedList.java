@@ -1,4 +1,4 @@
-package algorithms._0083_Remove_duplicates_from_sorted_list;
+package algorithms._0083_remove_duplicates_from_sorted_list;
 
 /**
  * ** Created by peter.guan on 2021/06/18.
