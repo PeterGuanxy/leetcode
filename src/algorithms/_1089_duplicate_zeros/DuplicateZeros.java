@@ -1,7 +1,5 @@
 package algorithms._1089_duplicate_zeros;
 
-import java.util.Arrays;
-
 /**
  * ** Created by peter.guan on 2021/08/26.
  *
