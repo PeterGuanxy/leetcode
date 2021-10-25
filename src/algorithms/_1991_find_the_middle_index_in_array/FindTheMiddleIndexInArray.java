@@ -24,4 +24,9 @@ public class FindTheMiddleIndexInArray {
         }
         return -1;
     }
+
+    public static void main(String[] args) {
+        System.out.println(((21 * 12) + 3) * 12);
+
+    }
 }
