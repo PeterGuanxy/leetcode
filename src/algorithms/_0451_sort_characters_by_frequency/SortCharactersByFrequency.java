@@ -1,7 +1,5 @@
 package algorithms._0451_sort_characters_by_frequency;
 
-import javafx.beans.binding.StringBinding;
-
 import java.util.*;
 
 /**
