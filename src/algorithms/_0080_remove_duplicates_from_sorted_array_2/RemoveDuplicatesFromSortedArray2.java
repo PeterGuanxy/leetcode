@@ -1,7 +1,5 @@
 package algorithms._0080_remove_duplicates_from_sorted_array_2;
 
-import java.awt.print.Printable;
-
 /**
  * ** Created by Peter on 2024/12/29.
  *
